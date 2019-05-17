@@ -1,1 +1,1 @@
-## Simple pytorch base classifier
+## Simple pytorch based classifier
